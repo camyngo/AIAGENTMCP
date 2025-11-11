@@ -1,0 +1,26 @@
+{
+  "name": "aiagentmcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "show-report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camyngo/AIAGENTMCP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/camyngo/AIAGENTMCP/issues"
+  },
+  "homepage": "https://github.com/camyngo/AIAGENTMCP#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}
